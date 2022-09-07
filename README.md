@@ -30,6 +30,4 @@
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical)
-## Полезные репозитории
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skapty6260&repo=ProfilePortfolio)
 
