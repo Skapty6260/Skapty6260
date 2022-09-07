@@ -9,7 +9,11 @@
 **Now i learning assembly, c++, react**
 ---
 
-**Discord Guild** [Click]() **WebSite** [Click]()
+- **Discord Guild** [Click]()
+- **WebSite** [Click]()
+
+---
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/763779184128425984)](https://discord.com/users/763779184128425984)
 
 ---
