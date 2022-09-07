@@ -13,12 +13,15 @@
 - **WebSite** [Click]()
 - **Discord** [Click](https://discord.com/channels/@me/763779184128425984)
 
+---
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/763779184128425984)](https://discord.com/users/763779184128425984)
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical)
+
 ---
 
 ## Полезные репозитории
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skapty6260&repo=ProfilePortfolio)
 
----
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical)
