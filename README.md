@@ -29,5 +29,7 @@
 
 ---
 
+![snake gif](https://github.com/Skapty6260/Skapty6260/blob/output/github-contribution-grid-snake.gif)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical)
 
