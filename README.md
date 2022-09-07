@@ -24,11 +24,10 @@
 - **WebSite** [Click]()
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/763779184128425984)](https://discord.com/users/763779184128425984)
----
+
 ![snake gif](https://github.com/Skapty6260/Skapty6260/blob/output/github-contribution-grid-snake.gif#gh-dark-mode-only)
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skapty6260&show_icons=true&theme=radical) . [![Discord Presence](https://lanyard.cnrad.dev/api/763779184128425984)](https://discord.com/users/763779184128425984)
 
