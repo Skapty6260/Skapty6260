@@ -5,6 +5,7 @@
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
 ![TS](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript)
+![Node](https://img.shields.io/badge/NodeJS-NodeJS-green)
 
 **Now i learning assembly, c++, react**
 ---
