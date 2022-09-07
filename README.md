@@ -11,7 +11,6 @@
 
 - **Discord Guild** [Click]()
 - **WebSite** [Click]()
-- **Discord** [Click](https://discord.com/channels/@me/763779184128425984)
 
 ---
 
