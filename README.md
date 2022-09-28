@@ -15,7 +15,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60am+JS%2C+TS%2C+HTML+%26+CSS+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&width=700&height=59&lines=I+am+a+Russian+middle+developer.;I+work+part-time+as+a+freelancer.;I+have+1+year+of+experience+in+web+programming.;Worked+with+JS%2C+TS+for+4+years%2C+developing+personal+auxiliary+modules.;Experience+in+bot++development+-+3+years.)](https://git.io/typing-svg)
 
 **Now i'm learning assembly, c++**
 ---
