@@ -1,7 +1,4 @@
-
 [![MasterHead](https://media.discordapp.net/attachments/1008457569053974578/1024757025848184962/unknown_6.png?width=984&height=554)](https://github.com/Skapty6260/Skapty6260)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60am+JS%2C+TS%2C+HTML+%26+CSS+Developer)](https://git.io/typing-svg)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![Html](https://img.shields.io/badge/-html-090909?style=for-the-badge&logo=html5)
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=css3)
@@ -17,6 +14,8 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I%60am+JS%2C+TS%2C+HTML+%26+CSS+Developer)](https://git.io/typing-svg)
 
 **Now i'm learning assembly, c++**
 ---
